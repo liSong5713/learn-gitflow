@@ -1,5 +1,9 @@
 const Person = {
     name:"Rick",
-    age:24，
-    langue:'chinese'
+    langue:'chinese',
+    sex:'boy',
+    langue:'chinese',
+    age:24,
+    hobby:'playbasketBal',
+    tv:['shameless']
 }
