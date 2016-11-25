@@ -5,5 +5,5 @@ const Person = {
     langue:'chinese',
     age:24,
     hobby:'playbasketBal',
-    tv:['shameless']
+    tv:['shameless','walking dead']
 }
