@@ -6,7 +6,6 @@ const Person = {
     langue:'chinese',
     sex:'boy',
     langue:'chinese',
-    age:24,
     hobby:'playbasketBal',
     tv:['shameless','walking dead']
 }
